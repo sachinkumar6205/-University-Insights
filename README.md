@@ -27,3 +27,6 @@ This project is a responsive and SEO-optimized landing page for promoting MBBS p
 5. Open the Project
 * Locate the index.html file in the project directory.
 * Open the file in any modern browser to view the page.
+
+6. Live link
+* https://studymbbsabroadlandingpage.netlify.app/
